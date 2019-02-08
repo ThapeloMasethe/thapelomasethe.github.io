@@ -31,3 +31,6 @@
         border-top-width: 1px;
         background-color:none;
     }
+.btn {
+        vertical-align: text-top;
+}
