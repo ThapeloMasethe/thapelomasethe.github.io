@@ -1,39 +1,35 @@
-.spec-li > li > span {
-        padding: 5px 0 0 0;
-    }
-    .spec-label {
-        display: block;
-        float: left;
-        width: 50%;
-        font-weight: 700;
-        font-size: 12px;
-    }
-
-    .spec-value {
-        display: block;
-        float: right;
-        width: 50%;
-        text-align: right;
-        font-size: 12px;
-    }
-
-    .card-header-spec {
-        display: flex;
-        justify-content: space-between
-    }
-
-    .card-spec-button-font-size {
-        font-size: 30px
-    }
-
-    .spec-card {
-        border-width: 0;
-        border-top-width: 1px;
-        background-color:none;
-    }
-.btn {
-        vertical-align: text-top;
+.spec-li>li>span {
+  padding: 5px 0 0 0;
 }
-.mb-0 {
-        vertical-align: text-bottom;
+
+.spec-label {
+  display: block;
+  float: left;
+  width: 50%;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.spec-value {
+  display: block;
+  float: right;
+  width: 50%;
+  text-align: right;
+  font-size: 12px;
+}
+
+.card-header-spec {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-spec-button-font-size {
+  font-size: 30px
+}
+
+.spec-card {
+  border-width: 0;
+  border-top-width: 1px;
+  background-color: none;
 }
