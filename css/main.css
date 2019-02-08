@@ -1,6 +1,6 @@
 body{
     background-color: whitesmoke;
-    font-family: cursive;
+    font-family: fantasy;
 }
 .navBar{
     clear: both;
@@ -43,7 +43,7 @@ body{
     font-family: fantasy;
 }
 h1{
-    font-family: cursive;
+    font-family: fantasy;
     font-style: bold;
 }
 .fa {
