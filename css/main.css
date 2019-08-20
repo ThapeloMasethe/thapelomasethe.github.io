@@ -16,11 +16,11 @@ body{
     width: 50%;
     height: 96vh;
     border-top: 2px solid goldenrod;
-    background-image: url("../img/bae.jpeg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: darkgrey;
     opacity: 0.5;
+    display: block;
 }
 .leftContainer h1{
     font-family: fantasy;
@@ -31,6 +31,36 @@ body{
     width: 100%;
     height: 100%;
 }
+#myWork {
+    float: right;
+    width: 30%;
+    height: 30%;
+    color: black;
+    background-color: goldenrod;
+}
+
+#skillAndExperience {
+    width: 40%;
+    height: 40%;
+    background-color: black;
+}
+
+#contactMe {
+    width: 30%;
+    height: 30%;
+    float: left;
+    color: black;
+    background-color: goldenrod;
+}
+
+#aboutMe {
+    width: 40%;
+    height: 40%;
+    float: right;
+    color: goldenrod;
+    background-color: black;
+}
+
 .rightContainer{
     float: left;
     width: 50%;
@@ -77,4 +107,8 @@ h1{
     color: darkgray;
     text-shadow: 1px 1px goldenrod;
 }
-© Thapelo Masethe 2019 GitHub, Inc.
+
+#tweets {
+    width: 500px;
+    height: 50px;
+}
